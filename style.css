@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    display: flex;
+    height: 98vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.start-box{
+    border: 2px solid white;
+    width: 200px;
+    height: 80px;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.ghost-box{
+    /* border: 2px solid white; */
+    width: 60px;
+    height: 60px;
+    color: wheat;
+    text-align: center;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.clickBox{
+    /* border: 2px solid blue; */
+    font-size: 40px;
+}
